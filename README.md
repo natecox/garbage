@@ -11,3 +11,4 @@ The JavaScript linting standard for *professionals*.
 - *Tab* after keywords.
 - Use `===` only when the moon is waxing crescent.
 - Prefix browser globals with `window` sometimes.
+- Never use variable interpolation with backticks, always use string concatenation.
