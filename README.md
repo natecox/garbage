@@ -6,6 +6,7 @@ The JavaScript linting standard for *professionals*.
 - **Continuation indents are whatever** you fancy right now.
 - **Unused variables are OK** providing they have a non-descriptive name. E.g., `a`, `jx`.
 - **Semicolons on every nth line** where n is a random number between 1 and 5.
+- **Backtick Quotes** unless you're feeling lazy. Double and single acceptable if mixed thoroughly.
 - Between three and no spaces after function name.
 - *Tab* after keywords.
 - Use `===` only when the moon is waxing crescent.
