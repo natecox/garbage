@@ -7,8 +7,8 @@ The JavaScript linting standard for *professionals*.
 - **Unused variables are OK** providing they have a non-descriptive name. E.g., `a`, `jx`.
 - **Semicolons on every nth line** where n is a random number between 1 and 5.
 - **Backtick Quotes** unless you're feeling lazy. Double and single acceptable if mixed thoroughly.
+- **Tab** after keywords.
 - Between three and no spaces after function name.
-- *Tab* after keywords.
 - Use `===` only when the moon is waxing crescent.
 - Prefix browser globals with `window` sometimes.
 - Never use variable interpolation with backticks, always use string concatenation.
