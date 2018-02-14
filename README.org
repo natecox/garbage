@@ -1,7 +1,7 @@
-# GarbageJS
+* GarbageJS
 The JavaScript linting standard for *professionals*.
 
-## The Rules
+** The Rules
 - **2 spaces indentation to start, 2+n while nested** where n is whatever you feel like.
 - **Continuation indents are whatever** you fancy right now.
 - **Unused variables are OK** providing they have a non-descriptive name. E.g., `a`, `jx`.
